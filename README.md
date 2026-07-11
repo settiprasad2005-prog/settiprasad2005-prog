@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Siva Prasad Setti
 
-<!--
-**settiprasad2005-prog/settiprasad2005-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Data Science & AI
+- 💻 Passionate about Python, SQL and Machine Learning
+- 📚 Exploring Web Development and Java
+- 🎯 Goal: Become a Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- C
+- Java
+- SQL
+- Git & GitHub
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/
+
+⭐ Thanks for visiting my GitHub profile!
