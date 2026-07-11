@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siva Prasad Setti</h1>
+ii<h1 align="center">Hi 👋, I'm Siva Prasad Setti</h1>
 
 <h3 align="center">
 🎓 Final Year B.Tech CSE (Data Science) Student | Aspiring Data Scientist
@@ -86,6 +86,14 @@ Java-based applications and internship tasks developed using object-oriented pro
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=settiprasad2005-prog&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/settiprasad2005-prog/settiprasad2005-prog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
