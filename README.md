@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (Data Science)
-- 🌱 Learning **Python, SQL, Machine Learning & AI**
+- 🌱 🌱 Learning Python, SQL, Power BI, Statistics, Machine Learning & AI
 - 💻 Interested in **Data Science & Software Development**
 - 🎯 Goal: Become a **Data Scientist**
 - 📍 India
