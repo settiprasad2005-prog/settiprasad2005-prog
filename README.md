@@ -74,18 +74,6 @@ Java-based applications and internship tasks developed using object-oriented pro
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=settiprasad2005-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=settiprasad2005-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -98,14 +86,6 @@ Java-based applications and internship tasks developed using object-oriented pro
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=settiprasad2005-prog&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=settiprasad2005-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
